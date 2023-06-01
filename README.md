@@ -16,12 +16,12 @@ Make sure to install the following dependencies:
 - scikit-learn
 
 You can install these dependencies using the following commands:
-!pip install pytrends
-!pip install pandas
-!pip install numpy
-!pip install nltk
-!pip install seaborn
-!pip install scikit-learn
+- !pip install pytrends
+- !pip install pandas
+- !pip install numpy
+- !pip install nltk
+- !pip install seaborn
+- !pip install scikit-learn
 
 Please note that additional dependencies might be required depending on your specific project setup and requirements. Make sure to install any other necessary libraries based on the error messages or specific instructions provided in your project's documentation.
 
