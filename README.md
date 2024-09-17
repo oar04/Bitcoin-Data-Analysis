@@ -42,10 +42,6 @@ The following data sources were used in this project:
 - The `historical_bitcoin_data.csv` file was downloaded from [Investing.com](https://uk.investing.com/crypto/bitcoin/historical-data).
 - The `cryptonews.csv` file was downloaded from [Kaggle](https://www.kaggle.com/datasets/oliviervha/crypto-news).
 
-## Acknowledgements
-
-I would like to express my gratitude to Xander Talent for their training throughout this past two months. Their guidance has been invaluable in helping me accomplish my career goals.
-
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own purposes.
@@ -53,5 +49,3 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## Conclusion
 
 This ETL pipeline provides a comprehensive solution for extracting, transforming, and loading Bitcoin data. It combines price data, news articles, and Google Trends data into a single dataframe, enabling further analysis and modeling. The project demonstrates how to handle multiple data sources, perform data cleaning and transformation, and leverage visualization and machine learning techniques for deeper insights.
-
-Please feel free to customize and enhance the pipeline based on your specific requirements and use cases. Happy analyzing!
